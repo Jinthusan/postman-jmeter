@@ -1,3 +1,3 @@
 # postman-jmeter
-installation
+installation :
 npm i postman-jmeter -g
